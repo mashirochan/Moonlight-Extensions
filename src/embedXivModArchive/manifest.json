@@ -1,0 +1,23 @@
+{
+  "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+  "id": "embedXivModArchive",
+  "version": "1.0.0",
+  "apiLevel": 2,
+  "meta": {
+    "name": "Embed XIV Mod Archive",
+    "tagline": "Embeds XIV Mod Archive mod links",
+    "authors": [
+      "infiniti"
+    ],
+    "source": "https://github.com/mashirochan/Moonlight-Extensions"
+  },
+  "csp": {
+    "connect-src": [
+      "xivmodarchive.com",
+      "www.xivmodarchive.com"
+    ],
+    "img-src": [
+      "static.xivmodarchive.com"
+    ]
+  }
+}
