@@ -1,0 +1,14 @@
+{
+   "$schema": "https://moonlight-mod.github.io/manifest.schema.json",
+   "id": "noDefaultHangStatus",
+   "version": "1.0.0",
+   "apiLevel": 2,
+   "meta": {
+      "name": "No Default Hang Status",
+      "tagline": "Removes the default status applied when joining voice channels",
+      "authors": [
+         "infiniti"
+      ],
+      "source": "https://github.com/mashirochan/Moonlight-Extensions"
+   }
+}
